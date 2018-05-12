@@ -1,0 +1,32 @@
+_repo: Le-monete-dei-possedimenti-veneziani-di-oltremare-e-di-terraferma-descritte-ed-illustrate-da-__26866
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lazari, Vincenzo
+    birthdate: 1823
+    deathdate: 1864
+    gutenberg_agent_id: '32285'
+    url: http://www.gutenberg.org/2009/agents/32285
+description: ''
+gutenberg_bookshelf: IT Numismatica
+gutenberg_issued: '2008-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26866'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Numismatics -- Italy -- Venice (Province) -- History'
+- !lcsh 'Coins -- Italy'
+- !lcc 'CJ'
+- !lcsh 'Coins -- Balkan Peninsula'
+- !lcsh 'Coins, Italian -- Italy -- Venice (Province) -- History'
+- !lcsh 'Coins -- Greece'
+title: Le monete dei possedimenti veneziani di oltremare e di terraferma descritte
+  ed illustrate da Vincenzo Lazari
+url: http://www.gutenberg.org/ebooks/26866
