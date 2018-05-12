@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32285'
     url: http://www.gutenberg.org/2009/agents/32285
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26866#Le-monete-dei-possedimenti-veneziani-di-oltremare-e-di-terraferma-descritte-ed-illustrate-da-_
 gutenberg_bookshelf: IT Numismatica
 gutenberg_issued: '2008-10-10'
 gutenberg_type: Text
